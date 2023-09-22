@@ -16,6 +16,10 @@ Pulsa [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para más informació
 - [ ] :x: Hacer el trabajo[^1].
 - [x] :+1: No hacer nada
 
+```js
+console.log('Hola')
+```
+
 > [!WARNING]
 > No mires detras tuya.
 
