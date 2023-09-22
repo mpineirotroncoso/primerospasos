@@ -13,10 +13,12 @@ Pulsa [aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para mas información
         - Lista2
 
 
-- [ ] :x: Hacer el trabajo
+- [ ] :x: Hacer el trabajo[^1].
 - [x] :+1: No hacer nada
 
 > [!WARNING]
 > No mires detras tuya.
 
 ![imagen](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
+
+[^1]: Nota al pie
