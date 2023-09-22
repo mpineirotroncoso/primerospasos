@@ -1,8 +1,8 @@
-# Titulo
-## Subtitulo
-### Otro subtitulo
+# Título
+## Subtítulo
+### Otro subtítulo
 
-Pulsa [aqui](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para mas información
+Pulsa [aquí](https://www.youtube.com/watch?v=dQw4w9WgXcQ) para más información
 
 > aaaaa
 
